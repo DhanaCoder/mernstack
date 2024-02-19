@@ -1,0 +1,3 @@
+[submodule "mernstack"]
+	path = mernstack
+	url = https://github.com/DhanaCoder/mernstack.git
